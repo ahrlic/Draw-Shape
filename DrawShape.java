@@ -7,7 +7,6 @@ import simpleIO.Console;
  * 
  * @author Ariana Hrlic 
  * Date: March 6, 2023 
- * Course: ISC3U 
  * DrawShape.java
  * DrawShape
  */
